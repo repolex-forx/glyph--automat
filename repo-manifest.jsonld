@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/glyph/automat/commit/1e64bf3da912e50a4eca40e7b9797cf2ab949e01",
       "git:hexsha": "1e64bf3da912e50a4eca40e7b9797cf2ab949e01",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T22:58:49.486692+00:00"
     },
     {
       "@id": "https://repolex.ai/r/glyph/automat/commit/ef18293c905dd9fde902eb20c718a0a465a9d33b",
