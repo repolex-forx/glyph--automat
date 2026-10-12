@@ -1,0 +1,11 @@
+{
+  "org": "glyph",
+  "repo": "automat",
+  "versions": [
+    {
+      "commit": "1e64bf3da912e50a4eca40e7b9797cf2ab949e01",
+      "tag": "",
+      "parsed_at": "2026-10-12T22:58:49.487343+00:00"
+    }
+  ]
+}
